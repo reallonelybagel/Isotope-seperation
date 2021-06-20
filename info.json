@@ -2,7 +2,7 @@
   "name": "{{MOD_NAME}}",
   "version": "{{VERSION}}",
   "factorio_version": "1.1",
-  "title": "Nuclear Reprocessing",
+  "title": "{{MOD_NAME}}",
   "author": "LonelyBagel",
   "contact": "",
   "homepage": "",
