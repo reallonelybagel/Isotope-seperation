@@ -1,12 +1,12 @@
 {
-  "name": "EmptyMod",
-  "version": "1.1.0",
+  "name": "NuclearReprocessing",
+  "version": "1.0",
   "factorio_version": "1.1",
-  "title": "Empty Mod",
-  "author": "JanSharp",
+  "title": "Nuclear Reprocessing",
+  "author": "LonelyBagel",
   "contact": "",
   "homepage": "",
-  "description": "???",
+  "description": "Small technology and recipe name tweak.",
   "dependencies": [
     
   ]
